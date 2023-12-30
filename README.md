@@ -1,5 +1,5 @@
 # Managing Big Data Project
-Group 4 MBD project repository.
+Project for course Managing Big Data at University of Twente. Developed by https://github.com/LucianChirca/ and https://github.com/bp-pet/. I made a new repository so the old commits are not available.
 ## Research questions
 -   Can we and to which extent, improve the prediction accuracy of answering time to stack overflow questions?
     -   Which features are most useful in predicting answer time on stack overflow questions?
